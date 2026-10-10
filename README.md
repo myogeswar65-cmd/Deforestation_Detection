@@ -1,6 +1,7 @@
 # Deforestation Detection from Satellite Images
+An AI-powered forest monitoring pipeline that uses Sentinel-2 satellite imagery to identify forest cover and potential deforestation.
 
-An AI-based forest monitoring system that uses Sentinel-2 satellite imagery to map forest cover and detect potential clearing, helping environmental researchers and forest-monitoring teams investigate land-cover changes.
+Built using U-Net semantic segmentation and an NDVI baseline, this project compares deep learning with a traditional remote-sensing approach to detect potential forest loss.
 
 ## Results: Baseline vs. U-Net
 
