@@ -1,4 +1,4 @@
-### Deforestation Detection from Satellite Images
+# Deforestation Detection from Satellite Images
 
 An AI-based forest monitoring system that uses Sentinel-2 satellite imagery to map forest cover and detect potential clearing, helping environmental researchers and forest-monitoring teams investigate land-cover changes.
 
